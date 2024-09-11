@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/my-dap/static/css/main.f855e6bc.css",
-    "main.js": "/my-dap/static/js/main.b8f61137.js",
-    "static/js/378.c9c6952f.chunk.js": "/my-dap/static/js/378.c9c6952f.chunk.js",
-    "static/js/171.510223b0.chunk.js": "/my-dap/static/js/171.510223b0.chunk.js",
-    "static/js/453.83ef660d.chunk.js": "/my-dap/static/js/453.83ef660d.chunk.js",
-    "static/js/126.443bb60c.chunk.js": "/my-dap/static/js/126.443bb60c.chunk.js",
-    "index.html": "/my-dap/index.html",
-    "main.f855e6bc.css.map": "/my-dap/static/css/main.f855e6bc.css.map",
-    "main.b8f61137.js.map": "/my-dap/static/js/main.b8f61137.js.map",
-    "378.c9c6952f.chunk.js.map": "/my-dap/static/js/378.c9c6952f.chunk.js.map",
-    "171.510223b0.chunk.js.map": "/my-dap/static/js/171.510223b0.chunk.js.map",
-    "453.83ef660d.chunk.js.map": "/my-dap/static/js/453.83ef660d.chunk.js.map",
-    "126.443bb60c.chunk.js.map": "/my-dap/static/js/126.443bb60c.chunk.js.map"
+    "main.css": "/my-dapp/static/css/main.f855e6bc.css",
+    "main.js": "/my-dapp/static/js/main.49b5a0c0.js",
+    "static/js/378.c9c6952f.chunk.js": "/my-dapp/static/js/378.c9c6952f.chunk.js",
+    "static/js/171.510223b0.chunk.js": "/my-dapp/static/js/171.510223b0.chunk.js",
+    "static/js/453.83ef660d.chunk.js": "/my-dapp/static/js/453.83ef660d.chunk.js",
+    "static/js/126.443bb60c.chunk.js": "/my-dapp/static/js/126.443bb60c.chunk.js",
+    "index.html": "/my-dapp/index.html",
+    "main.f855e6bc.css.map": "/my-dapp/static/css/main.f855e6bc.css.map",
+    "main.49b5a0c0.js.map": "/my-dapp/static/js/main.49b5a0c0.js.map",
+    "378.c9c6952f.chunk.js.map": "/my-dapp/static/js/378.c9c6952f.chunk.js.map",
+    "171.510223b0.chunk.js.map": "/my-dapp/static/js/171.510223b0.chunk.js.map",
+    "453.83ef660d.chunk.js.map": "/my-dapp/static/js/453.83ef660d.chunk.js.map",
+    "126.443bb60c.chunk.js.map": "/my-dapp/static/js/126.443bb60c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.b8f61137.js"
+    "static/js/main.49b5a0c0.js"
   ]
 }
