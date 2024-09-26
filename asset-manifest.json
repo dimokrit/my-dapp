@@ -1,19 +1,18 @@
 {
   "files": {
-    "main.css": "/my-dapp/static/css/main.f855e6bc.css",
-    "main.js": "/my-dapp/static/js/main.481e6fbb.js",
-    "static/js/378.69b38f3c.chunk.js": "/my-dapp/static/js/378.69b38f3c.chunk.js",
-    "static/js/126.443bb60c.chunk.js": "/my-dapp/static/js/126.443bb60c.chunk.js",
-    "static/js/453.83ef660d.chunk.js": "/my-dapp/static/js/453.83ef660d.chunk.js",
+    "main.css": "/my-dapp/static/css/main.f6d4798d.css",
+    "main.js": "/my-dapp/static/js/main.83ab783c.js",
+    "static/media/ZingRustDemo-Base.otf": "/my-dapp/static/media/ZingRustDemo-Base.7c6dd80d820400a6ab1d.otf",
+    "static/media/OpenSans-Bold.ttf": "/my-dapp/static/media/OpenSans-Bold.043771c999cd4d47d9f3.ttf",
+    "static/media/OpenSans.ttf": "/my-dapp/static/media/OpenSans.17e98b9e5586529b13cc.ttf",
+    "static/media/peace_sans.otf": "/my-dapp/static/media/peace_sans.f59a8de8357e6c25d47c.otf",
+    "static/media/edo.ttf": "/my-dapp/static/media/edo.e37ac53559aac16c85ec.ttf",
     "index.html": "/my-dapp/index.html",
-    "main.f855e6bc.css.map": "/my-dapp/static/css/main.f855e6bc.css.map",
-    "main.481e6fbb.js.map": "/my-dapp/static/js/main.481e6fbb.js.map",
-    "378.69b38f3c.chunk.js.map": "/my-dapp/static/js/378.69b38f3c.chunk.js.map",
-    "126.443bb60c.chunk.js.map": "/my-dapp/static/js/126.443bb60c.chunk.js.map",
-    "453.83ef660d.chunk.js.map": "/my-dapp/static/js/453.83ef660d.chunk.js.map"
+    "main.f6d4798d.css.map": "/my-dapp/static/css/main.f6d4798d.css.map",
+    "main.83ab783c.js.map": "/my-dapp/static/js/main.83ab783c.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.481e6fbb.js"
+    "static/css/main.f6d4798d.css",
+    "static/js/main.83ab783c.js"
   ]
 }
