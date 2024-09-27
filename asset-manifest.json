@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-dapp/static/css/main.f6d4798d.css",
-    "main.js": "/my-dapp/static/js/main.83ab783c.js",
+    "main.js": "/my-dapp/static/js/main.d2f03a31.js",
     "static/media/ZingRustDemo-Base.otf": "/my-dapp/static/media/ZingRustDemo-Base.7c6dd80d820400a6ab1d.otf",
     "static/media/OpenSans-Bold.ttf": "/my-dapp/static/media/OpenSans-Bold.043771c999cd4d47d9f3.ttf",
     "static/media/OpenSans.ttf": "/my-dapp/static/media/OpenSans.17e98b9e5586529b13cc.ttf",
@@ -9,10 +9,10 @@
     "static/media/edo.ttf": "/my-dapp/static/media/edo.e37ac53559aac16c85ec.ttf",
     "index.html": "/my-dapp/index.html",
     "main.f6d4798d.css.map": "/my-dapp/static/css/main.f6d4798d.css.map",
-    "main.83ab783c.js.map": "/my-dapp/static/js/main.83ab783c.js.map"
+    "main.d2f03a31.js.map": "/my-dapp/static/js/main.d2f03a31.js.map"
   },
   "entrypoints": [
     "static/css/main.f6d4798d.css",
-    "static/js/main.83ab783c.js"
+    "static/js/main.d2f03a31.js"
   ]
 }
